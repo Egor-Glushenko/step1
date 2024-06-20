@@ -53,5 +53,5 @@ html {
     display: inline;
 }
 #list li:not(:last-of-type) {
-    margin-right: 10%;
+    margin-right: 5px;
 }
